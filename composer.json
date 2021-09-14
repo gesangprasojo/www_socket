@@ -1,0 +1,12 @@
+{
+    "autoload": {
+        "psr-4": {
+            "IsG\\": "src",
+            "IsGesang\\": "src"
+        }
+    },
+    "require": {
+        "cboden/ratchet": "^0.4.3",
+        "nesbot/carbon": "^2.51"
+    }
+}
